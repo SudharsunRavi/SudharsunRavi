@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sudharsun Ravisankar</h1>
-<h3 align="center">A passionate Frontend developer from Chennai</h3>
+<h1 align="center">Hello, I'm Sudharsun Ravisankar</h1>
+<h3 align="center">A Web Developer from Chennai</h3>
 <br>
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="100%">
 
 <p align="left"> <a href="https://twitter.com/ImSudharsun_R" target="blank"><img src="https://img.shields.io/twitter/follow/ImSudharsun_R?logo=twitter&style=for-the-badge" alt="im_sudharsunr" /></a> </p>
 
-- 🔭 I’m currently working on **HTML, CSS,JS**
+- 🔭 I’m currently working on **front-end development**
 
-- 🌱 I’m currently learning **Advanced concepts of JS**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **sudharsunr2004@gmail.com**
 
