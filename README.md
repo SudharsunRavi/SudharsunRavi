@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sudharsun Ravisankar</h1>
 <h3 align="center">A passionate developer from Chennai</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw28j-yaUMDHqbZZUC_vo2gs&ust=1705576316591000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiEtoyl5IMDFQAAAAAdAAAAABAD"/>
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="100%">
 
 - 🔭 I’m currently working on **ReactJS**
 
