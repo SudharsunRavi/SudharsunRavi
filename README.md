@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sudharsun Ravisankar</h1>
-<h3 align="center">A passionate developer from Chennai</h3>
+<h3 align="center">A fullstack developer from Chennai, Tamilnadu.</h3>
 
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="100%">
 
