@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **backend technologies**
+- 🌱 I’m currently learning **backend technologies and DSA**
 
-- 🤝 I’m looking for help with **backend technologies**
+- 🤝 I’m looking for help with **backend technologies and DSA**
 
-- 💬 Ask me about **JS and React**
+- 💬 Ask me about **JS and ReactJS**
 
 - 📫 How to reach me **sudharsunr2004@gmail.com**
 
