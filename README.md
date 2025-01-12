@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sudharsun Ravisankar</h1>
 <h3 align="center">A Fullstack Developer from Chennai</h3> <br/>
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQETzht2OLeiIg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707750817260?e=1729123200&v=beta&t=vopnZ7e4gP0f8fEYsT3KsSxmKpaf_dTdvsXmGjFkI6k" alt="banner" width="950px"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQETzht2OLeiIg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707750817260?e=1742428800&v=beta&t=HUhfS0gCGkCTQT7AoEYo0UbC_0Okbo89jw3eQeA4Ajg" alt="banner" width="950px"/>
 
 - 🔭 I’m currently working on **ReactJS**
 
